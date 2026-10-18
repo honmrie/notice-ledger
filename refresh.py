@@ -102,7 +102,7 @@ def main():
     args.output.mkdir(parents=True)
     (args.output / "audit.json").write_text(json.dumps(summary, indent=2) + "\n", encoding="utf-8")
     with (args.output / "date-screen.csv").open("w", encoding="utf-8", newline="") as target:
-        writer = csv.DictWriter(target, fieldnames=list(records[0]))
+        writer = csv.DictWriter(target, fieldnames=list(records[0]), lineterminator="\n")
         writer.writeheader()
         writer.writerows({key: spreadsheet_safe(value) for key, value in item.items()} for item in records)
     print(json.dumps(summary, indent=2))
