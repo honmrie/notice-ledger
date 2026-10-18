@@ -1,0 +1,18 @@
+{
+  "as_of_date": "2026-10-18",
+  "source": "https://canadabuys.canada.ca/opendata/pub/openTenderNotice-ouvertAvisAppelOffres.csv",
+  "source_sha256": "6b373b9001c6bd306e7b4f2d62cc99243a6d389fe8c8a9b2a04da79c5b456a18",
+  "source_fetched_at_utc": null,
+  "generated_at_utc": "2026-10-18T23:37:50.284253+00:00",
+  "counts": {
+    "total": 899,
+    "future": 843,
+    "past": 55,
+    "today": 1,
+    "invalid_date": 0,
+    "not_open": 0
+  },
+  "method": "Compare closing calendar dates only; do not infer a timezone. Exclude same-day and invalid dates from future candidates.",
+  "scope": "Federal export only. Future date is not proof of availability or supplier eligibility.",
+  "attribution": "Contains information licensed under the Open Government Licence \u2013 Canada."
+}
