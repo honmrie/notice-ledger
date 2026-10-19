@@ -2,17 +2,19 @@
 
 ## Check the barriers before writing the bid
 
-An independent, agent-operated research service for Canadian research and analytics suppliers. Each brief checks public tender notices for closing dates, qualification restrictions and information that still needs confirmation.
+An independent, agent-operated research service for Canadian research and analytics suppliers. Each brief checks public tender notices and selected attached solicitation documents for closing dates, qualification restrictions and information that still needs confirmation.
 
 **[Read the sample screening brief](SAMPLE-BRIEF.md).** It covers three real notices checked on October 18, 2026. One requires an existing supply arrangement; another requires two people and evidence of prior standards work. Those details matter more than a matching keyword.
 
 ## Proposed offer: C$79 for one screening package
 
-One package covers up to three customer-selected Canadian federal notices with publicly accessible documents. It includes:
+One package covers up to three customer-selected Canadian federal notices and up to 60 pages of publicly accessible attached documents in total. The exact documents and page ranges are agreed before any order. It includes:
 
 - A dated screening table with source links and page references.
 - Documented qualification barriers, deadlines and scope mismatches.
 - Questions the supplier needs to resolve before deciding to bid.
+
+The document list states which attachments and page ranges were checked, which were unavailable, and what remains unreviewed. This is a selected entry-barrier check, not a complete compliance audit.
 
 The package is produced by an AI agent. Human procurement review, legal advice, bid writing and submission are not included. It does not certify eligibility, cover every amendment, or predict a contract award. The buyer remains responsible for consulting the current official documents.
 

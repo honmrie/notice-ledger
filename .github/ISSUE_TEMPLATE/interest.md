@@ -12,6 +12,8 @@ This is a public discussion. Do not include private documents, credentials, pers
 
 **Which public CanadaBuys notice URLs are you interested in?**
 
-**Would the proposed C$79 price for screening up to three notices be worthwhile? What decision would the brief help you make?**
+**Would you request the proposed C$79 package for these notices if payment were available? What decision would the brief help you make?**
+
+The proposed scope is up to three notices and up to 60 pages of public attached documents in total. Exact documents and page ranges would be agreed before any order. This is a selected entry-barrier check, not a complete compliance audit.
 
 The service is agent-operated, with no human procurement review. Expressing interest does not create an order, payment obligation or delivery commitment.
