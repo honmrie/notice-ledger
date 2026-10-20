@@ -1,8 +1,8 @@
 # Notice Ledger: sample screening brief
 
-**Review date: October 18, 2026. Intended reader: a small Canadian research or analytics supplier.**
+Reviewed October 18, 2026 for small Canadian research and analytics suppliers.
 
-This is a document-screening aid, not professional procurement advice. The findings below distinguish source facts from screening judgments. They do not establish a particular supplier's eligibility. Current official documents and amendments control.
+This brief records selected requirements and their implications for a potential bidder. It does not provide professional procurement advice or establish a supplier's eligibility. Current official documents and amendments control.
 
 | Notice | Published closing time | Screening judgment |
 | --- | --- | --- |
@@ -12,27 +12,27 @@ This is a document-screening aid, not professional procurement advice. The findi
 
 ## 1. Service navigation support for seniors
 
-**The restriction:** The attached proposed-procurement notice, page 1, limits the requirement to qualified holders of supply arrangement E60ZT-18TSPS, Tier 1, Stream 2, category 2.7. Pages 1–2 list invited holders. The region is remote/virtual. Page 3 says the full solicitation is distributed directly to qualified invitees. [Official notice](https://canadabuys.canada.ca/en/tender-opportunities/tender-notice/cb-61-38291761) · [Attached NPP, pages 1–3](https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/110142/100032783_npp_e_seniorsnavigation.pdf)
+The restriction: The attached proposed-procurement notice, page 1, limits the requirement to qualified holders of supply arrangement E60ZT-18TSPS, Tier 1, Stream 2, category 2.7. Pages 1 to 2 list invited holders. The region is remote/virtual. Page 3 says the full solicitation is distributed directly to qualified invitees. [Official notice](https://canadabuys.canada.ca/en/tender-opportunities/tender-notice/cb-61-38291761) · [Attached NPP, pages 1 to 3](https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/110142/100032783_npp_e_seniorsnavigation.pdf)
 
-**Judgment:** A research consultancy without the specified qualification should resolve access before drafting a bid. A keyword match and the export's Request for Proposal label do not establish an unrestricted competition.
+Judgment: A research consultancy without the specified qualification should resolve access before drafting a bid. A keyword match and the export's Request for Proposal label do not establish an unrestricted competition.
 
-**Unresolved:** The full mandatory criteria were not available in the public NPP reviewed. The web page describes a 25-month period; the NPP says approximately 24 months. Confirm the controlling schedule in the full solicitation. No eligibility or duration assumption should be made from the brief alone.
+Unresolved: The full mandatory criteria were not available in the public NPP reviewed. The web page describes a 25-month period; the NPP says approximately 24 months. Confirm the controlling schedule in the full solicitation. No eligibility or duration assumption should be made from the brief alone.
 
 ## 2. Data governance standardization
 
-**The requirements:** The call permits organizations and individuals, but Appendix A imposes substantial conditions. Page 12 requires two examples of previously published standards solutions, at least two different people on the team, and specified project-lead experience. Pages 13–14 address bilingual delivery capacity and Canadian supplier requirements. [Official notice](https://canadabuys.canada.ca/en/tender-opportunities/tender-notice/cb-797-56171832) · [Call document, pages 7 and 12–14](https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/107370/scc_cfp-2026-01-advancing-data-governance-through-standardization-solutions_en.pdf)
+The requirements: The call permits organizations and individuals, but Appendix A imposes substantial conditions. Page 12 requires two examples of previously published standards solutions, at least two different people on the team, and specified project-lead experience. Pages 13 to 14 address bilingual delivery capacity and Canadian supplier requirements. [Official notice](https://canadabuys.canada.ca/en/tender-opportunities/tender-notice/cb-797-56171832) · [Call document, pages 7 and 12 to 14](https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/107370/scc_cfp-2026-01-advancing-data-governance-through-standardization-solutions_en.pdf)
 
-**Judgment:** General data-analysis ability alone is insufficient. An individual considering this opportunity still needs the required team and evidence. This call funds standards solutions; it is not a general software-development brief.
+Judgment: General data-analysis ability alone is insufficient. An individual considering this opportunity still needs the required team and evidence. This call funds standards solutions; it is not a general software-development brief.
 
-**Unresolved:** Each bidder must compare its own evidence against all mandatory and rated requirements. This sample checks selected entry barriers, not the complete evaluation matrix or available funding.
+Unresolved: Each bidder must compare its own evidence against all mandatory and rated requirements. This sample checks selected entry barriers, not the complete evaluation matrix or available funding.
 
 ## 3. Social-network analysis software
 
-**The scope:** The notice calls for an existing commercial software solution, initially five licences with support and maintenance, plus specified options. Its description says there is no security requirement associated with this solicitation and identifies supplier-country eligibility conditions. [Official notice and linked solicitation](https://canadabuys.canada.ca/en/tender-opportunities/tender-notice/cb-407-70236951)
+The scope: The notice calls for an existing commercial software solution, initially five licences with support and maintenance, plus specified options. Its description says there is no security requirement associated with this solicitation and identifies supplier-country eligibility conditions. [Official notice and linked solicitation](https://canadabuys.canada.ca/en/tender-opportunities/tender-notice/cb-407-70236951)
 
-**Judgment:** A consultancy selling bespoke research should not treat this as an ordinary analysis engagement. Screen further only if it can supply a compliant software product and associated support.
+Judgment: A consultancy selling bespoke research should not treat this as an ordinary analysis engagement. Screen further only if it can supply a compliant software product and associated support.
 
-**Unresolved:** The attached technical specification was not reviewed for this sample. Product compliance, licensing rights, pricing and supplier eligibility remain unverified.
+Unresolved: The attached technical specification was not reviewed for this sample. Product compliance, licensing rights, pricing and supplier eligibility remain unverified.
 
 ## How this sample was checked
 

@@ -2,9 +2,9 @@
 
 ## Check the barriers before writing the bid
 
-An independent research service for Canadian research and analytics suppliers. Each brief checks public tender notices and selected attached solicitation documents for closing dates, qualification restrictions and information that still needs confirmation.
+Notice Ledger checks Canadian federal tenders for research and analytics suppliers. Each brief covers the public notice and selected attachments, with closing dates, qualification requirements and questions to resolve before bidding.
 
-**[Read the sample screening brief](SAMPLE-BRIEF.md).** It covers three real notices checked on October 18, 2026. One requires an existing supply arrangement; another requires two people and evidence of prior standards work. Those details matter more than a matching keyword.
+[Read the sample brief](SAMPLE-BRIEF.md), which covers three notices checked on October 18, 2026. One requires an existing supply arrangement. Another requires at least two people and evidence of prior standards work.
 
 ## Proposed offer: C$79 for one screening package
 
@@ -16,9 +16,9 @@ One package covers up to three customer-selected Canadian federal notices and up
 
 The document list states which attachments and page ranges were checked, which were unavailable, and what remains unreviewed. This is a selected entry-barrier check, not a complete compliance audit.
 
-This is document screening, not professional procurement advice. Legal advice, bid writing and submission are not included. It does not certify eligibility, cover every amendment, or predict a contract award. The buyer remains responsible for consulting the current official documents.
+The package does not include professional procurement advice, legal advice, bid writing or submission. It does not certify eligibility, cover every amendment or predict an award. Buyers must check the current official documents.
 
-**Early-access validation only. Checkout is not active, no payment is requested, and no delivery booking is being accepted.** The C$79 price is a proposed price being tested, before any applicable tax.
+The proposed price is C$79 before applicable tax. We are testing interest and are not accepting payments or booking delivery. Checkout is not active.
 
 To express interest, [open a request](https://github.com/honmrie/notice-ledger/issues/new?template=interest.md). Share public notice URLs and the type of work you supply. Do not post private business documents, credentials, personal identifiers or confidential bid material. An expression of interest creates no obligation to buy.
 
