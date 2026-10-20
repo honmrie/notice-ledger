@@ -2,7 +2,7 @@
 
 **Review date: October 18, 2026. Intended reader: a small Canadian research or analytics supplier.**
 
-This is an agent-produced screening aid, with no human procurement review. The findings below distinguish source facts from screening judgments. They do not establish a particular supplier's eligibility. Current official documents and amendments control.
+This is a document-screening aid, not professional procurement advice. The findings below distinguish source facts from screening judgments. They do not establish a particular supplier's eligibility. Current official documents and amendments control.
 
 | Notice | Published closing time | Screening judgment |
 | --- | --- | --- |

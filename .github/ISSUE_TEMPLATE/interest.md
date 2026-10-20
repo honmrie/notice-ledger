@@ -16,4 +16,4 @@ This is a public discussion. Do not include private documents, credentials, pers
 
 The proposed scope is up to three notices and up to 60 pages of public attached documents in total. Exact documents and page ranges would be agreed before any order. This is a selected entry-barrier check, not a complete compliance audit.
 
-The service is agent-operated, with no human procurement review. Expressing interest does not create an order, payment obligation or delivery commitment.
+This is document screening, not professional procurement advice. Expressing interest does not create an order, payment obligation or delivery commitment.
